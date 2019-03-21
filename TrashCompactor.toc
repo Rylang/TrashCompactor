@@ -1,1 +1,6 @@
-// Add info here
+## Interface: 80100
+## Title: TrashCompactor
+## Author: Rylang
+## Version: 0.1
+
+main.lua

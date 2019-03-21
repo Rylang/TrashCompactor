@@ -1,1 +1,2 @@
-// add code here
+-- Main purpose is to create a single button to auto sell all "trash"
+-- categorized items in a users inventory when talking to a trade vendor.
